@@ -1,28 +1,4 @@
-<p align="center">
-	<img align="center" src="spring-boot-vuejs-ws.png"/>
-</p>
 
- 
-<h2 align="center">spring-boot-vuejs-websockets</h2>
-
-<p align="center">
-  <em>
-  Spring Boot
-  · Vue.js
-  · Websockets
-  · STOMP
-  · SockJS
-  · Bootstrap4
-  · Docker
-</p>
-
-<p align="center"> 
-  <a href="https://travis-ci.com/jasrodis/spring-boot-vuejs-websockets">
-    <img alt="travis" src="https://img.shields.io/travis/jasrodis/spring-boot-vuejs-websockets.svg?style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="licence" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square">
-  </a>
-</p>
 
 This is a simple application using spring-boot, vue.js and websockets.
 It displays random real-time data on a table every second.
