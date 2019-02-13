@@ -5,7 +5,7 @@ It displays random real-time data on a table every second.
  
 
 
-## Run with docker 🏃🐳
+## Run with docker 
 1. Build docker image
 
 ```sh
