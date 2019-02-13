@@ -81,3 +81,5 @@ classes/
 buildSrc/build
 /spring-*/build
 /src/asciidoc/build
+/.gradle/
+/bin/
